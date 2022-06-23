@@ -1,0 +1,2 @@
+**T1 (DFS) (V = 4, E = 5, time = 0.000 sec) Tree Cost = 3
+Total memory used = 204

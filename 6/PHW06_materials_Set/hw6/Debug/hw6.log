@@ -1,0 +1,3 @@
+﻿  s160041H06.cpp
+SPT_test_D.obj : warning LNK4099: 'vc141.pdb' PDB를 'SPT_test_D.obj' 또는 'D:\강의자료\7학기\알고\과제\6\PHW06_materials_Set\Debug\vc141.pdb'에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
+  hw6.vcxproj -> D:\강의자료\7학기\알고\과제\6\PHW06_materials_Set\Debug\hw6.exe

@@ -1,0 +1,24 @@
+**Test Case 1 (N = 20000, THR = 1, time = 0.013 sec)
+pt pair = (12221, 5368), min_dist =  3.0518509475996325e-03
+**Test Case 2 (N = 20000, THR = 4, time = 0.010 sec)
+pt pair = (3169, 8252), min_dist =  3.0518509475996325e-03
+**Test Case 3 (N = 20000, THR = 8, time = 0.009 sec)
+pt pair = (16587, 1506), min_dist =  6.8241461760299273e-03
+**Test Case 4 (N = 20000, THR = 16, time = 0.008 sec)
+pt pair = (10359, 7746), min_dist =  1.5259254737998162e-03
+**Test Case 5 (N = 20000, THR = 16, time = 0.008 sec)
+pt pair = (10051, 5662), min_dist =  7.6296273689990812e-03
+**Test Case 6 (N = 20000, THR = 32, time = 0.009 sec)
+pt pair = (17908, 11097), min_dist =  4.3159690004365824e-03
+**Test Case 7 (N = 20000, THR = 2, time = 0.011 sec)
+pt pair = (7467, 14228), min_dist =  6.8241461760299273e-03
+**Test Case 8 (N = 20000, THR = 4, time = 0.010 sec)
+pt pair = (4340, 15797), min_dist =  3.0518509475996325e-03
+**Test Case 9 (N = 20000, THR = 8, time = 0.009 sec)
+pt pair = (17247, 11197), min_dist =  3.0518509475996325e-03
+**Test Case 10 (N = 20000, THR = 16, time = 0.008 sec)
+pt pair = (4608, 13587), min_dist =  1.5259254737998162e-03
+**Test Case 11 (N = 20000, THR = 16, time = 0.009 sec)
+pt pair = (6456, 12987), min_dist =  1.0789922501091611e-02
+**Test Case 12 (N = 20000, THR = 32, time = 0.008 sec)
+pt pair = (7484, 8033), min_dist =  4.3159690004365824e-03
